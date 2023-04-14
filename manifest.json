@@ -1,18 +1,13 @@
 {
-    "manifest_version": 2,
-    "name": "Leitor de Texto",
-    "version": "1.0",
-    "description": "Uma extensão do navegador que lê o texto da tela e armazena",
-    "icons": {
-      "16": "icon.png",
-      "32": "icon.png",
-      "48": "icon.png",
-      "128": "icon.png"
-    },
-    "background": {
-      "scripts": ["background.js"],
-      "persistent": false
-    },
-    "permissions": ["activeTab"]
-  }
-  
+  "name": "Minha Extensão",
+  "version": "1.0",
+  "manifest_version": 2,
+  "description": "Identificador de notícias falsas",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
