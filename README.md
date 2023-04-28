@@ -1,4 +1,4 @@
-﻿# Extensao IA detectora de fake news
+# Extensao IA detectora de fake news
 
  - Projeto desenvolvido na quinta edição do Technovation Summer School For Girls oferecido pelo Instituto de Ciências Matemáticas e de Computação da USP
  - Grupo Sênior 04 TechnIA
@@ -10,7 +10,7 @@
  Vídeo pitch: https://youtu.be/9obhLhVR8FE 
  Vídeo tecnico: https://youtu.be/Dw67PXkZnms 
  
- ﻿# Protótipo
+ # Protótipo
   
  ![image](https://user-images.githubusercontent.com/99557469/235030114-56fe2cf3-eabb-48de-bc7e-c2da56ed1428.png)
  ![image](https://user-images.githubusercontent.com/99557469/235030160-75993cbf-4ad8-473a-b1d1-a07b65b42060.png)
