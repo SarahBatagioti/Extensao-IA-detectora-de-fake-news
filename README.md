@@ -1,9 +1,14 @@
 ﻿# Extensao IA detectora de fake news
- <hr>
+
  - Projeto desenvolvido na quinta edição do Technovation Summer School For Girls oferecido pelo Instituto de Ciências Matemáticas e de Computação da USP
  - Grupo Sênior 04 TechnIA
  
- # Descrição do projeto
+ # Descrição do projeto 
+ 
+ É uma inteligência artificial treinada para detectar padrões comuns em informações falsas e ser capaz de analisar grandes quantidades de dados de forma rápida e eficiente, concentrando-se na área de saúde em relação a doenças, um tópico que precisa ser tratado com atenção especial quando se trata de notícias falsas. Tudo isso é automatizado pela extensão do navegador, que, quando ativada, lê os textos exibidos na tela e, quando identifica algo suspeito, envia uma notificação ao usuário.
+ 
+ Vídeo pitch: https://youtu.be/9obhLhVR8FE 
+ Vídeo tecnico: https://youtu.be/Dw67PXkZnms 
  
  ﻿# Protótipo
   
